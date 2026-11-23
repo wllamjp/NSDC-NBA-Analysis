@@ -62,5 +62,13 @@ How did the hand-checking ban implemented in 2004 affect guard performance overa
 Original data from NBA.com
 
 **Chosen Plots**
+1. 3 Point Percentage Accuracy Box Plot
+<img width="697" height="562" alt="image" src="https://github.com/user-attachments/assets/56a4e5ab-9b37-43ac-9666-0b16cd42e167" />
 
+2. Mid Point Percentage Accuracy Box Plot
+<img width="740" height="557" alt="image" src="https://github.com/user-attachments/assets/8b3f9d05-8a44-4c5d-908c-8ccb4a2d7471" />
+
+3. Grouped Scatter with Regression Lines Showing Relation between Points and Turnovers
+<img width="897" height="572" alt="image" src="https://github.com/user-attachments/assets/307abc16-d947-4781-9550-09a489c1b961" />
+ 
 **Conclusions + Takeaways**
