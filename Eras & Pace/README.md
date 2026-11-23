@@ -65,10 +65,19 @@ Original data from NBA.com
 1. 3 Point Percentage Accuracy Box Plot
 <img width="697" height="562" alt="image" src="https://github.com/user-attachments/assets/56a4e5ab-9b37-43ac-9666-0b16cd42e167" />
 
+Notable Observations: The median 3-point percentage accuracy increased by roughly 2% for 2004-2005, and the box plot for the 2004-2005 season is more symmetric compared to 2003-2004 (more skewed left). Indicates that before the hand-checking ban, many players shot far below the median (although low outliers are common in both boxplots).
+
 2. Mid Point Percentage Accuracy Box Plot
 <img width="740" height="557" alt="image" src="https://github.com/user-attachments/assets/8b3f9d05-8a44-4c5d-908c-8ccb4a2d7471" />
 
+Notable Observations: The median mid-point percentage accuracy increased by roughly 1% for 2004-2005. Furthermore, in the 2003-2004 boxplots, there are multiple low outliers, but there are virtually none in the 2004-2005 plot. Instead, there are numerous high outliers. 
+
 3. Grouped Scatter with Regression Lines Showing Relation between Points and Turnovers
 <img width="897" height="572" alt="image" src="https://github.com/user-attachments/assets/307abc16-d947-4781-9550-09a489c1b961" />
- 
+
+Notable Observations: show linear trend indicating number of turnovers relative to number of points scored. **Note:** higher points correlate with higher turnovers (more minutes on court). However, the 2004-2005 guards had less turnovers relative to points scored compared to 2003-2004 guards. For a fixed number of points guard would score, the expected turnovers would be less. 
+
 **Conclusions + Takeaways**
+-There was no significant change in 3-point percentage, mid-range percentage, or the expected turnovers depending on number of points scored. 
+-However, we could see that there is a small increase in 3-point and mid-range percentage, as well as less expected turnovers for points scored.
+-Overall conclusion: Guards begun to display higher impact in the game due to less defensive pressure and not having to rely as much on centers & forwards. (could create their own shots)
