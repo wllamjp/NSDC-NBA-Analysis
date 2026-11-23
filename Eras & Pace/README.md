@@ -54,6 +54,13 @@ Don't rely on past head-to-head records ("Team A has Team B's number") to predic
 - The data ends in 2014-15, so it doesn't cover the recent three-point era
 - We can't yet say whether edges come from the players. That would need player-level data.
 
-*Question 2 (James)* Impact of Hand-checking Ban
+**Question 2 (James)** Impact of Hand-checking Ban
 How did the hand-checking ban implemented in 2004 affect guard performance overall?
 
+**Data Sources:** 
+3ptfiltered.ipynb, midfiltered.ipynb, pts&To.ipynb 
+Original data from NBA.com
+
+**Chosen Plots**
+
+**Conclusions + Takeaways**
