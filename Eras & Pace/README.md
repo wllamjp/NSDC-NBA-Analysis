@@ -1,4 +1,4 @@
-**Question 1 (Madi):** Matchup edges across eras
+## **Question 1 (Madi):** Matchup edges across eras
 Do some teams consistently do better against specific opponents than expected, and does that hold in every era?
 
 **Data Sources:**
@@ -35,7 +35,7 @@ Notable Observations: The correlation is close to 0 in every era (0.00, -0.01 an
 
 
 
-**Question 2 (James)** Impact of Hand-checking Ban
+## **Question 2 (James)** Impact of Hand-checking Ban
 How did the hand-checking ban implemented in 2004 affect guard performance overall?
 
 **Data Sources:** 
