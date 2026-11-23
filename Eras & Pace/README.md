@@ -78,6 +78,6 @@ Notable Observations: The median mid-point percentage accuracy increased by roug
 Notable Observations: show linear trend indicating number of turnovers relative to number of points scored. **Note:** higher points correlate with higher turnovers (more minutes on court). However, the 2004-2005 guards had less turnovers relative to points scored compared to 2003-2004 guards. For a fixed number of points guard would score, the expected turnovers would be less. 
 
 **Conclusions + Takeaways**
--There was no significant change in 3-point percentage, mid-range percentage, or the expected turnovers depending on number of points scored. 
--However, we could see that there is a small increase in 3-point and mid-range percentage, as well as less expected turnovers for points scored.
--Overall conclusion: Guards begun to display higher impact in the game due to less defensive pressure and not having to rely as much on centers & forwards. (could create their own shots)
+- There was no significant change in 3-point percentage, mid-range percentage, or the expected turnovers depending on number of points scored. 
+- However, we could see that there is a small increase in 3-point and mid-range percentage, as well as less expected turnovers for points scored.
+- Overall conclusion: Guards begun to display higher impact in the game due to less defensive pressure and not having to rely as much on centers & forwards. (could create their own shots)
