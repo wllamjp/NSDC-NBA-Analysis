@@ -62,3 +62,45 @@ Notable Observations: show linear trend indicating number of turnovers relative 
 - There was no significant change in 3-point percentage, mid-range percentage, or the expected turnovers depending on number of points scored. 
 - However, we could see that there is a small increase in 3-point and mid-range percentage, as well as less expected turnovers for points scored.
 - Overall conclusion: Guards begun to display higher impact in the game due to less defensive pressure and not having to rely as much on centers & forwards. (could create their own shots)
+
+
+
+
+
+**Question 3:**
+
+How has pace (possessions per game) and shot profile changed and can it be separated into eras?
+
+**Dataset:**
+
+Basketball Reference League Averages Per Game
+
+
+**Plots:**
+
+1. Pace, 3PA, PTS 
+
+![](pace_3pa_1.png)
+
+Notable observations:
+Pace and 3PA have low correlation, but Pace has strong correlation with PTS
+Thus, they must be separated into different eras
+
+2. Pace, 3PA, separated by era
+
+
+![](pace_3pa_2.png)
+
+Notable observations:
+Pace fluctuates while 3PA has a consistent increasing trends
+The spike in 3PA from 1994-1997 is a result of the shortening of the three-point line
+
+
+Limitations:
+Dataset is based on league-wide averages, so it limits analysis on teams, players, individual seasons, and individual games
+
+
+Takeaways:
+An increase in pace and 3PA indicates that players are increasing in shooting volume and efficiency
+Rule changes can have a significant impact on playstyle and performance
+
